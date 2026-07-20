@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Crmticketing project<br>im seyed arian sadat 25 years old im java developer<br>
+🔭 I’m currently working on Crmticketing project<br> seyed arian sadat 25 years old  java developer<br>
 
 
 ## 🌐 Socials:
